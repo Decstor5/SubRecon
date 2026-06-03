@@ -50,7 +50,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/subrecon.git
+git clone https://github.com/Decstor5/subrecon.git
 cd subrecon
 pip install -r requirements.txt
 ```
