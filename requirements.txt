@@ -1,0 +1,7 @@
+# Required
+requests>=2.28.0
+dnspython>=2.3.0
+
+# Recommended (significantly improves performance)
+aiohttp>=3.8.0
+ipwhois>=1.2.0
